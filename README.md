@@ -1,0 +1,4 @@
+betacoin
+========
+
+Betacoin application
